@@ -1,0 +1,2 @@
+Create a file called  "hello.py" in your week-2 folder and write in your answers as code to the assignment below. 
+After ensuring its accuracy, push your work to Git-Hub with the commit message "Basic Python Syntax"
